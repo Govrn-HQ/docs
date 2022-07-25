@@ -9,19 +9,22 @@ There are two tabs of the Contributions page:
 
 The Contributions Tab shows you a list all the contributions you have uploaded to the system and their relevant details.  A key detail it shows is the status.
 
-There are two statuses for a contribution:
+There are two statuses for a contribution: Staged and Minted.
 
-1. Staged
-2. Minted
-
-**Staged contributions** are contributions you've uploaded but haven't minted on-chain yet.
+**Staging contributions** are contributions you've uploaded but haven't minted on-chain yet.
 
 **Minted contributions** are just that, contributions you have minted on-chain.
 
-![](<../../.gitbook/assets/Screen Shot 2022-06-24 at 1.48.07 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-07-25 at 3.42.36 PM.png>)
 
 {% hint style="info" %}
-Currently, contributions are minted to Gnosis Chain.
+Currently, contributions are minted on Gnosis Chain.
+{% endhint %}
+
+Additionally, if you realized you made an error or mistake, you can click on the pen icon to **edit** the contribution or the trash can to **delete** the contribution.
+
+{% hint style="info" %}
+Once a contribution is minted, you aren't able to edit a contribution, and for now you aren't able to delete it either (we will soon be enabling a "delete" feature for minted contributions)
 {% endhint %}
 
 ### Contribution Types

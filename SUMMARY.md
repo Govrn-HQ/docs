@@ -10,7 +10,8 @@
   * [🌱 Get Started](product-guides/govrn-protocol/get-started.md)
   * [➕ Report Your Contributions](product-guides/govrn-protocol/report-your-contributions.md)
   * [📊 Manage Your Contributions](product-guides/govrn-protocol/manage-your-contributions.md)
-  * [☘ Mint Your Contributions](product-guides/govrn-protocol/mint-your-contributions.md)
+  * [🖌 Mint Your Contributions](product-guides/govrn-protocol/mint-your-contributions.md)
+  * [⚡ Give an Attestation](product-guides/govrn-protocol/give-an-attestation.md)
 
 ## Use Cases
 
