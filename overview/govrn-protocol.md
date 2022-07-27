@@ -53,35 +53,7 @@ So what happens next? &#x20;
 
 
 
-
-
-## 🧭 Resources
-
 For more information, get details on each product component here.
-
-{% content-ref url="../archived/report.md" %}
-[report.md](../archived/report.md)
-{% endcontent-ref %}
-
-{% content-ref url="../product-guides/kevin-malone.md" %}
-[kevin-malone.md](../product-guides/kevin-malone.md)
-{% endcontent-ref %}
-
-{% content-ref url="../archived/profile.md" %}
-[profile.md](../archived/profile.md)
-{% endcontent-ref %}
-
-{% content-ref url="../archived/contributions-page.md" %}
-[contributions-page.md](../archived/contributions-page.md)
-{% endcontent-ref %}
-
-{% content-ref url="../archived/attestation-feed.md" %}
-[attestation-feed.md](../archived/attestation-feed.md)
-{% endcontent-ref %}
-
-{% content-ref url="../product-guides/mint-your-contributions.md" %}
-[mint-your-contributions.md](../product-guides/mint-your-contributions.md)
-{% endcontent-ref %}
 
 ## 🌱 Use Cases
 
