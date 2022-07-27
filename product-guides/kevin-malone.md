@@ -41,7 +41,7 @@ The third, and most important command is the report command. Once you run this c
 {% endhint %}
 
 {% hint style="success" %}
-<mark style="color:purple;">**/points**</mark>
+<mark style="color:purple;">**/history**</mark>
 
 After you have been submitting contributions, you will want to receive a report of your contributions. Luckily, Kevin can help you do that. When you start typing /points, a list of date range options will appear. Choose the date range you want to (note: this filters your contribution by the date the contribution happened, not the submission date). Kevin will send you a table of your contributions. Finally, he’ll give you an option to download a csv file of the report as well!
 {% endhint %}

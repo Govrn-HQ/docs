@@ -3,15 +3,16 @@
 ## Overview
 
 * [🌞 Welcome to Govrn](README.md)
+* [🌿 Govrn Protocol](overview/govrn-protocol.md)
 
 ## Product Guides
 
-* [🌿 Govrn Protocol](product-guides/govrn-protocol/README.md)
-  * [🌱 Get Started](product-guides/govrn-protocol/get-started.md)
-  * [➕ Report Your Contributions](product-guides/govrn-protocol/report-your-contributions.md)
-  * [📊 Manage Your Contributions](product-guides/govrn-protocol/manage-your-contributions.md)
-  * [🖌 Mint Your Contributions](product-guides/govrn-protocol/mint-your-contributions.md)
-  * [⚡ Give an Attestation](product-guides/govrn-protocol/give-an-attestation.md)
+* [🌱 Get Started](product-guides/get-started.md)
+* [➕ Report Your Contributions](product-guides/report-your-contributions.md)
+* [📊 Manage Your Contributions](product-guides/manage-your-contributions.md)
+* [🖌 Mint Your Contributions](product-guides/mint-your-contributions.md)
+* [⚡ Give an Attestation](product-guides/give-an-attestation.md)
+* [🤖 Kevin Malone](product-guides/kevin-malone.md)
 
 ## Use Cases
 
@@ -21,7 +22,6 @@
 ## Archived
 
 * [➕ Report](archived/report.md)
-* [🤖 Kevin Malone](archived/kevin-malone.md)
 * [💼 Profile](archived/profile.md)
 * [📊 Contributions Page](archived/contributions-page.md)
 * [✔ Attestation Feed](archived/attestation-feed.md)

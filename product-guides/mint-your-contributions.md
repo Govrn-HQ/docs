@@ -1,15 +1,5 @@
 # 🖌 Mint Your Contributions
 
-Before we get into the "How you mint your Contributions?", we want to talk about the why?
-
-
-
-Why should you mint your contribution?
-
-
-
-## How to mint a contribution?
-
 ### 1. Navigate to Contributions Tab
 
 Navigate to the "Contributions" Tab on the sidebar.  This should bring up your contributions page.&#x20;
@@ -29,8 +19,6 @@ Before you mint, we just double check that these are the contributions you want 
 Once you hit the mint button, you should receive a notification on your connected wallet to approve the transaction.  Hit the approve button and the transaction is off!
 
 **Don't be nervous!**  If you accidentally mint a contribution you didn't mean to mint, you can delete (aka burn it) at a later time.
-
-If you're curious again why you'd mint a contribution, see the above section on the why :relaxed:.
 
 ### 5.  Wait and Celebrate 🥂
 

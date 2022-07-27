@@ -1,2 +1,0 @@
-# ⚡ Give an Attestation
-

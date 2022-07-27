@@ -21,13 +21,13 @@ To start, we recommend creating a profile on the **Govrn web app**.  You'll be p
 
 The cool part is you can use this profile for multiple DAOs or tailor your profile based on each DAO you'd like to report contributions to.&#x20;
 
-![Connect your wallet](<../../.gitbook/assets/Screen Shot 2022-06-27 at 5.23.50 PM.png>)
+![Connect your wallet](<../.gitbook/assets/Screen Shot 2022-06-27 at 5.23.50 PM.png>)
 
 ### 2. Report your contributions
 
-Now you're all set up to [report your first contribution(s)! ](../../archived/report.md) Click on the + in the bottom right to complete the reporting flow.  You'll be asked for a contribution name, activity type, optional details and documentation, and the date you completed the contribution.
+Now you're all set up to [report your first contribution(s)! ](../archived/report.md) Click on the + in the bottom right to complete the reporting flow.  You'll be asked for a contribution name, activity type, optional details and documentation, and the date you completed the contribution.
 
-![Report a contribution](<../../.gitbook/assets/Screen Shot 2022-06-27 at 6.29.28 PM.png>)
+![Report a contribution](<../.gitbook/assets/Screen Shot 2022-06-27 at 6.29.28 PM.png>)
 
 > Tip: We've found that clear context and concise documentation leads to higher likelihood of receiving attestations and future value!
 
@@ -39,17 +39,17 @@ So what happens next? &#x20;
 
 #### View your contribution history
 
-> Govrn provides a [full history of your contributions](manage-your-contributions.md), both itemized and by contribution type.  This is a great way to see your contributions across all DAOs you participate in.
+> Govrn provides a [full history of your contributions](../product-guides/manage-your-contributions.md), both itemized and by contribution type.  This is a great way to see your contributions across all DAOs you participate in.
 
 **Associate your contributions to a DAO**
 
 #### **Receive and give attestations**
 
-> Govrn supports peer to peer attestations to validate contributions.  Curious about attestations? Learn more [here](../../fundamentals/attestations.md).
+> Govrn supports peer to peer attestations to validate contributions.  Curious about attestations? Learn more [here](../fundamentals/attestations.md).
 
 #### Mint your contributions&#x20;
 
-> Contributions can be minted on chain!  Read about the minting process [here](mint-your-contributions.md).
+> Contributions can be minted on chain!  Read about the minting process [here](../product-guides/mint-your-contributions.md).
 
 
 
@@ -59,40 +59,40 @@ So what happens next? &#x20;
 
 For more information, get details on each product component here.
 
-{% content-ref url="../../archived/report.md" %}
-[report.md](../../archived/report.md)
+{% content-ref url="../archived/report.md" %}
+[report.md](../archived/report.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../archived/kevin-malone.md" %}
-[kevin-malone.md](../../archived/kevin-malone.md)
+{% content-ref url="../product-guides/kevin-malone.md" %}
+[kevin-malone.md](../product-guides/kevin-malone.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../archived/profile.md" %}
-[profile.md](../../archived/profile.md)
+{% content-ref url="../archived/profile.md" %}
+[profile.md](../archived/profile.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../archived/contributions-page.md" %}
-[contributions-page.md](../../archived/contributions-page.md)
+{% content-ref url="../archived/contributions-page.md" %}
+[contributions-page.md](../archived/contributions-page.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../archived/attestation-feed.md" %}
-[attestation-feed.md](../../archived/attestation-feed.md)
+{% content-ref url="../archived/attestation-feed.md" %}
+[attestation-feed.md](../archived/attestation-feed.md)
 {% endcontent-ref %}
 
-{% content-ref url="mint-your-contributions.md" %}
-[mint-your-contributions.md](mint-your-contributions.md)
+{% content-ref url="../product-guides/mint-your-contributions.md" %}
+[mint-your-contributions.md](../product-guides/mint-your-contributions.md)
 {% endcontent-ref %}
 
 ## 🌱 Use Cases
 
 Ready to get started? We have use cases for both contributors and leaders.
 
-{% content-ref url="../../use-cases/dao-contributors.md" %}
-[dao-contributors.md](../../use-cases/dao-contributors.md)
+{% content-ref url="../use-cases/dao-contributors.md" %}
+[dao-contributors.md](../use-cases/dao-contributors.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../use-cases/dao-leaders.md" %}
-[dao-leaders.md](../../use-cases/dao-leaders.md)
+{% content-ref url="../use-cases/dao-leaders.md" %}
+[dao-leaders.md](../use-cases/dao-leaders.md)
 {% endcontent-ref %}
 
 ### 📝 Sign up for Beta
