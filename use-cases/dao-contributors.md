@@ -28,3 +28,11 @@ Govrn will empower you by giving you the following superpowers:
 All of this is designed to empower **you,** the DAO Contributor.  And by empowering Contributors, we think DAOs and communities will benefit as well.
 
 If that sounds good to you, then let us repeat, Welcome to the Govrn Movement.
+
+
+
+#### Click below if you're ready to start your journey.
+
+{% content-ref url="../lets-party/report-your-contributions.md" %}
+[report-your-contributions.md](../lets-party/report-your-contributions.md)
+{% endcontent-ref %}

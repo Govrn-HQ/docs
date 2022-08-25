@@ -2,7 +2,7 @@
 
 While Govrn is designed to empower `DAO Contributors`, it has the additional side benefit of helping `DAO Leaders`.  &#x20;
 
-This is because enabling DAO contributors to better coordinate reduces workload on DAO Leaders.  And, DAO Leaders are also empowered to become better DAO Contributors themselves!
+This is because enabling DAO contributors to better coordinate reduces the workload on DAO Leaders.  And, DAO Leaders are also empowered to become better DAO Contributors themselves!
 
 ### How Contributions Help the DAO as a Whole
 
@@ -24,3 +24,11 @@ Why?  It's easy to track the flow of money, but there's no easy way to track the
 Our goal is to make it easy for you to better understand the contributions your DAO makes. &#x20;
 
 We're giving you the superpower to create movements, not just stagnant communities.&#x20;
+
+
+
+#### Click below if you're ready to start your journey.
+
+{% content-ref url="../lets-party/report-your-contributions.md" %}
+[report-your-contributions.md](../lets-party/report-your-contributions.md)
+{% endcontent-ref %}

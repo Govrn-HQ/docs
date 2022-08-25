@@ -21,3 +21,9 @@ In this way, we ensure that you “own your own contributions”, so that no mat
 The Govrn Protocol is ultimately building the tools for a decentralized contribution graph.  The protocol optimizes for composability, making contributors and contributions the atomic base unit.
 
 This will enable DAOs to be truly emergent, coming together from any grouping of contributions rather than pledging a "stake".
+
+
+
+{% hint style="info" %}
+These docs are a **work in progress**!! If you have a suggestion on how to improve them, please submit them [here](get-involved/ideas-or-questions.md)
+{% endhint %}

@@ -3,29 +3,20 @@
 ## Overview
 
 * [🌞 Welcome to Govrn](README.md)
-* [🌿 Govrn Protocol](overview/govrn-protocol.md)
 
-## Product Guides
+## Lets party
 
-* [🌱 Get Started](product-guides/get-started.md)
-* [➕ Report Your Contributions](product-guides/report-your-contributions.md)
-* [📊 Manage Your Contributions](product-guides/manage-your-contributions.md)
-* [🌿 Mint Your Contributions](product-guides/mint-your-contributions.md)
-* [⚡ Give an Attestation](product-guides/give-an-attestation.md)
-* [🤖 Kevin Malone](product-guides/kevin-malone.md)
+* [🌱 Get Started](lets-party/get-started.md)
+* [➕ Report Your Contributions](lets-party/report-your-contributions.md)
+* [📊 Manage Your Contributions](lets-party/manage-your-contributions.md)
+* [🌿 Mint Your Contributions](lets-party/mint-your-contributions.md)
+* [⚡ Give an Attestation](lets-party/give-an-attestation.md)
+* [🤖 Kevin Malone](lets-party/kevin-malone.md)
 
 ## Use Cases
 
 * [🛠 DAO Contributors](use-cases/dao-contributors.md)
 * [🌻 DAO Leaders](use-cases/dao-leaders.md)
-
-## Fundamentals
-
-* [Contributions](fundamentals/contributions.md)
-* [Attestations](fundamentals/attestations.md)
-* [Value Frameworks](fundamentals/value-frameworks.md)
-* [Contribution Graph](fundamentals/contribution-graph.md)
-* [DAOs](fundamentals/daos.md)
 
 ## Integrations
 
@@ -35,3 +26,4 @@
 ## Get Involved
 
 * [🧋 Community Hub](get-involved/community-hub.md)
+* [💡 Ideas or Questions](get-involved/ideas-or-questions.md)
