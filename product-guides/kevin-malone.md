@@ -6,7 +6,7 @@ description: >-
 
 # 🤖 Kevin Malone
 
-To use Govrn, you’ll be interacting with our Discord Bot, Kevin Malone.
+One way to interact with Govrn is with our Discord Bot, Kevin Malone.
 
 Kevin Malone is our friendly DAO Accountant that helps you submit, record, and keep track of your contributions. To use Kevin, there are four main commands.
 
