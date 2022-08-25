@@ -19,13 +19,6 @@
 * [🛠 DAO Contributors](use-cases/dao-contributors.md)
 * [🌻 DAO Leaders](use-cases/dao-leaders.md)
 
-## Archived
-
-* [➕ Report](archived/report.md)
-* [💼 Profile](archived/profile.md)
-* [📊 Contributions Page](archived/contributions-page.md)
-* [✔ Attestation Feed](archived/attestation-feed.md)
-
 ## Fundamentals
 
 * [Contributions](fundamentals/contributions.md)

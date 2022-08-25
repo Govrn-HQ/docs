@@ -25,7 +25,7 @@ The cool part is you can use this profile for multiple DAOs or tailor your profi
 
 ### 2. Report your contributions
 
-Now you're all set up to [report your first contribution(s)! ](../archived/report.md) Click on the + in the bottom right to complete the reporting flow.  You'll be asked for a contribution name, activity type, optional details and documentation, and the date you completed the contribution.
+Now you're all set up to [report your first contribution(s)! ](broken-reference) Click on the + in the bottom right to complete the reporting flow.  You'll be asked for a contribution name, activity type, optional details and documentation, and the date you completed the contribution.
 
 ![Report a contribution](<../.gitbook/assets/Screen Shot 2022-06-27 at 6.29.28 PM.png>)
 

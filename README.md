@@ -16,7 +16,7 @@ Govrn enables DAO contributors to track and manage their DAO contributions.  By 
 
 In this way, we ensure that you “own your own contributions”, so that no matter what happens to your DAO, you always control your contributions.&#x20;
 
-### 🌈 What is this building towards?
+### 💫 What is this building towards?
 
 The Govrn Protocol is ultimately building the tools for a decentralized contribution graph.  The protocol optimizes for composability, making contributors and contributions the atomic base unit.
 
