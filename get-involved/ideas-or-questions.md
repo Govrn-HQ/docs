@@ -2,7 +2,7 @@
 
 These docs are a work in progress!!!  We want to hear feedback from you!!
 
-* Were these docs good? Bad
+* Were these docs good? Bad?
 * Is there something missing?
 * What could we do to improve them?
 
