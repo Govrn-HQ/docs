@@ -2,20 +2,22 @@
 
 ### 🌞 What is Govrn?&#x20;
 
-Govrn is an open platform empowering both DAO contributors to record contributions and communities to fairly value & reward contributions.
+Govrn is an open platform empowering both [DAO contributors](use-cases/dao-contributors.md) to record contributions and [communities](use-cases/dao-leaders.md) to fairly value & reward contributions.
 
-With Govrn, you are creating a bottom-up culture of governance by building a clear framework to define contributions, automate what your community views as ‘valuable’, and have it be adopted across the entire ecosystem.
+Govrn is an open platform that empowers [DAO contributors](use-cases/dao-contributors.md) by allowing them to record their own contributions, and also empowers [communities](use-cases/dao-leaders.md) by allowing them to fairly value & reward those contributions.&#x20;
 
-With Govrn, you are creating a <mark style="color:purple;">bottom-up culture of governance</mark>.  By reporting contributions, you are helping your DAO(s) crowdsource a framework for defining contribution types, assigning value to contributions, and developing meaningful taxonomies for the entire ecosystem.
+With Govrn, you are creating a <mark style="color:purple;">**bottom-up culture of governance**</mark>**.**  By reporting contributions, you are helping your DAO(s) crowdsource a framework for defining contribution types, assigning value to contributions, and developing meaningful taxonomies for the entire ecosystem.
+
+In other words, by using Govrn, you empower your DAOs to be defined by the <mark style="color:purple;">**actual work you do**</mark> and the <mark style="color:purple;">**value you create**</mark>.&#x20;
 
 ### 🛠 How does Govrn work?&#x20;
 
-Govrn enables DAO contributors to track and manage their DAO contributions.  By reporting or uploading their contributions with our protocol, contributors can then mint a records of their contributions while "pushing" to the applicable DAOs. &#x20;
+Govrn enables DAO contributors to track and manage their DAO contributions.  By reporting or uploading their contributions with our protocol, contributors can then mint a record of their contributions while "pushing" it to the applicable DAOs. &#x20;
 
 In this way, we ensure that you “own your own contributions”, so that no matter what happens to your DAO, you always control your contributions.&#x20;
 
-### 🌈 What is this building to?
+### 🌈 What is this building towards?
 
-The Govrn Protocol is ultimately building the tools for a decentralized contribution graph to exist.  The protocol optimizes for composability, making contributors and contributions the atomic base unit.
+The Govrn Protocol is ultimately building the tools for a decentralized contribution graph.  The protocol optimizes for composability, making contributors and contributions the atomic base unit.
 
 This will enable DAOs to be truly emergent, coming together from any grouping of contributions rather than pledging a "stake".

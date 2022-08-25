@@ -10,7 +10,7 @@
 * [🌱 Get Started](product-guides/get-started.md)
 * [➕ Report Your Contributions](product-guides/report-your-contributions.md)
 * [📊 Manage Your Contributions](product-guides/manage-your-contributions.md)
-* [🖌 Mint Your Contributions](product-guides/mint-your-contributions.md)
+* [🌿 Mint Your Contributions](product-guides/mint-your-contributions.md)
 * [⚡ Give an Attestation](product-guides/give-an-attestation.md)
 * [🤖 Kevin Malone](product-guides/kevin-malone.md)
 
