@@ -18,7 +18,7 @@ Navigate to the `Attestations` Tab on the sidebar.  This should bring up your at
 
 There are two tabs on your Attestation Page:
 
-**DAO Contributions:**  This shows a feed of all the contributions that have been reported by other contributors in your DAO(s) that you **haven't** yet attested to.
+**DAO Contributions:**  This shows a feed of all the contributions that have been minted by other contributors in your DAO(s) that you **haven't** yet attested to.
 
 **My Attestations:**  This shows a feed of all the contributions you have already attested to.
 
