@@ -2,7 +2,7 @@
 
 ### 🌞 What is Govrn?&#x20;
 
-Govrn is an open platform that empowers [DAO contributors](use-cases/dao-contributors.md) to tack and record their own contributions, while additionally enabling [communities](use-cases/dao-leaders.md) to fairly value & reward those contributions.&#x20;
+Govrn is an open platform that empowers [DAO contributors](use-cases/dao-contributors.md) to track and record their own contributions, while additionally enabling [communities](use-cases/dao-leaders.md) to fairly value & reward those contributions.&#x20;
 
 With Govrn, you are creating a <mark style="color:purple;">**bottom-up culture of governance**</mark>**.**  By reporting contributions, you are helping your DAO(s) crowdsource a framework for defining contribution types, assigning value to contributions, and developing meaningful taxonomies for the entire ecosystem.
 
