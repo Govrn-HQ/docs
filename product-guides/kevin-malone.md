@@ -22,6 +22,12 @@ Run the below commands in a DM with Kevin Malone or in your DAO's discord server
 <mark style="color:purple;">**/join**</mark>
 
 The /join command is the first command you should use when you enter a discord server or join a DAO.  This is the onboarding step that both helps you join that DAO and sets you up in Govrn to start recording your contributions.
+
+You will be asked for your:
+
+* Display Name
+* Your associated Ethereum Wallet Address to your Guild
+* Twitter Handle&#x20;
 {% endhint %}
 
 {% hint style="success" %}
