@@ -8,7 +8,11 @@ description: >-
 
 One way to interact with Govrn is with our Discord Bot, Kevin Malone.
 
-Kevin Malone is our friendly DAO Accountant that helps you submit, record, and keep track of your contributions. To use Kevin, there are four main commands.
+Kevin Malone is our friendly DAO Accountant that helps you submit, record, and keep track of your contributions.&#x20;
+
+To associate yourself with your DAO, you'll have to invite Kevin to your Discord Server. You'll need to be the Discord Admin to add Kevin using the following [link](https://discord.com/api/oauth2/authorize?client\_id=897920137653534780\&permissions=2048\&scope=applications.commands%20bot).&#x20;
+
+You'll then get to interact with Kevin using these four main commands. Be sure to start with the `/join` command and interact with Kevin's questions.&#x20;
 
 ### 💬 Commands
 
