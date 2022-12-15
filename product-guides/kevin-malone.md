@@ -13,9 +13,12 @@ Kevin Malone is our friendly DAO Accountant that helps you submit, record, and k
 ### If you are your DAO's Discord Admin and want to onboard your DAO to Govrn
 
 {% hint style="success" %}
-Please invite Kevin to your Discord Server. You'll need to be the Discord Admin using the following [link](https://discord.com/api/oauth2/authorize?client\_id=897920137653534780\&permissions=2048\&scope=applications.commands%20bot).&#x20;
-
-Once you've done so follow with the `/join` command in any channel to interact with our bot.&#x20;
+1. First invite our friendly bot — Kevin Malone — to your Discord Server. You'll need to be the Discord Admin using the following [link](https://discord.com/api/oauth2/authorize?client\_id=897920137653534780\&permissions=2048\&scope=applications.commands%20bot).
+2. You can choose to create a new channel called #contribution-logging to use for contributions and receiving weekly reports (optional)
+3. Then send the `/join` command in either the new #contribution-logging channel or any channel to interact with Kevin.
+4. Kevin will then DM you.
+5. DM Kevin back answering his questions.
+6. If you ended up creating a new channel, please let us know your channel’s `ID` so we set up the weekly reports
 {% endhint %}
 
 ### If your DAO has already onboarded to Govrn and you want to record contributions&#x20;
@@ -29,7 +32,13 @@ To associate yourself with your DAO, you'll need to interact with Kevin. Be sure
 ### If you are a contributor (but not Discord Admin) who wants to track contributions but whose DAO hasn't onboarded to Govrn yet&#x20;
 
 {% hint style="success" %}
-Hop into Govrn's discord using the following [link](https://discord.gg/R3cxBQP8PM). Once you join, jump into our [#intros channel](https://discord.gg/zRShm6MX). Introduce yourself first and then in a separate message, use the following command line `/join`. Once you've done so, Kevin Malone will DM you. Be sure to DM him back with the following command line `/add_dao`.&#x20;
+1. Hop into [Govrn's discord](https://discord.gg/R3cxBQP8PM).
+2. Once you join, jump into our [#intros channel](https://discord.gg/zRShm6MX). Introduce yourself first and then in a separate message, use the following command line `/join`.
+3. Once you've done so, Kevin Malone will DM you. Be sure to DM him back with the following command line `/add_dao`.
+4. Copy your Discord Server's ID found on the left panel of Discord. Right click and choose `Copy ID`.
+5. If you don't see this option, make sure to go to `User Settings > Advanced` first and toggle `Developer Mode` to `ON` (to be able to see your Discord Server's ID)
+6. Paste & send the `ID` to Kevin
+7. Write your DAO’s name
 {% endhint %}
 
 ### 💬 Commands
