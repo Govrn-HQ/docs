@@ -7,6 +7,7 @@
 ## Lets party
 
 * [🌱 Get Started](product-guides/get-started.md)
+* [⛓ Set up Gnosis Chain](lets-party/set-up-gnosis-chain.md)
 * [➕ Report Your Contributions](product-guides/report-your-contributions.md)
 * [📊 Manage Your Contributions](product-guides/manage-your-contributions.md)
 * [🌿 Mint Your Contributions](product-guides/mint-your-contributions.md)
