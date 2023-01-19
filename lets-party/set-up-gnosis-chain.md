@@ -15,7 +15,7 @@ To check on Metamask, hover over the Network to switch to Gnosis Chain.&#x20;
 If you can't find it, you can easily set it up. Just follow this [tutorial](https://medium.com/stakingbits/setting-up-metamask-for-gnosis-chain-formerly-xdai-e0deb1541757) on how to set it up with Metamask.&#x20;
 
 **2. Purchase DAI from Centralized Exhange**\
-Next, you’ll need some xDAI to cover transaction fees on Gnosis Chain. You cannot buy xDAI directly as it is a bridge from DAI on the Ethereum mainnet. Because of this, you will have to purchase DAI using a trading platform and then bridge it to xDAI. You can use Coinbase, FTX, Binance or your preferred exchange to purchase DAI on Ethereum mainnet.
+Next, you’ll need some xDAI to cover transaction fees on Gnosis Chain. You cannot buy xDAI directly as it is a bridge from DAI on the Ethereum mainnet. Because of this, you will have to purchase DAI using a trading platform and then bridge it to xDAI. You can use Coinbase, Binance or your preferred exchange to purchase DAI on Ethereum mainnet.
 
 **3. Bridge DAI from Ethereum Mainnet to xDAI on Gnosis Chain**
 
