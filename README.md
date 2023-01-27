@@ -8,7 +8,7 @@ With Govrn, you are creating a <mark style="color:purple;">**bottom-up culture o
 
 In other words, by using Govrn, you empower your DAOs to be defined by the <mark style="color:purple;">**actual work you do**</mark> and the <mark style="color:purple;">**value you create**</mark>.&#x20;
 
-### 🛠 How does Govrn work?&#x20;
+### 🛠 How does Govrn work? ([Demo](https://www.loom.com/share/3cc290c795a145db85a0698f60529ba0))&#x20;
 
 Govrn enables DAO contributors to track and manage their DAO contributions.  By reporting or uploading their contributions with our protocol, contributors can then mint a record of their contributions while "pushing" it to the applicable DAOs. &#x20;
 
