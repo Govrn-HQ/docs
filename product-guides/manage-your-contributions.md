@@ -1,4 +1,4 @@
-# 📊 Manage Your Contributions
+# 🔧 Manage Your Contributions
 
 There are two tabs of the Contributions page:
 

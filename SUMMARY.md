@@ -9,12 +9,13 @@
 * [🌱 Get Started](product-guides/get-started.md)
 * [⛓ Set up Gnosis Chain](lets-party/set-up-gnosis-chain.md)
 * [➕ Report Your Contributions](product-guides/report-your-contributions.md)
-* [📊 Manage Your Contributions](product-guides/manage-your-contributions.md)
+* [🔧 Manage Your Contributions](product-guides/manage-your-contributions.md)
 * [🌿 Mint Your Contributions](product-guides/mint-your-contributions.md)
 * [⚡ Give an Attestation](product-guides/give-an-attestation.md)
 * [🤖 Kevin Malone](product-guides/kevin-malone.md)
 * [🏋♀ Individual Contribution Activity](lets-party/individual-contribution-activity.md)
-* [🔦 DAO Dashboard](lets-party/dao-dashboard.md)
+* [📊 DAO Dashboard](lets-party/dao-dashboard.md)
+* [🎉 Create a DAO](lets-party/create-a-dao.md)
 
 ## Use Cases
 
