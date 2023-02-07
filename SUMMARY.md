@@ -12,11 +12,11 @@
 * [🔧 Manage Your Contributions](product-guides/manage-your-contributions.md)
 * [🌿 Mint Your Contributions](product-guides/mint-your-contributions.md)
 * [⚡ Give an Attestation](product-guides/give-an-attestation.md)
-* [🤖 Kevin Malone](product-guides/kevin-malone.md)
 * [🏋♀ Individual Contribution Activity](lets-party/individual-contribution-activity.md)
 * [📊 DAO Dashboard](lets-party/dao-dashboard.md)
-* [🎉 Create a DAO](lets-party/create-a-dao.md)
 * [👋 Profile](lets-party/profile.md)
+* [🎉 Create a DAO](lets-party/create-a-dao.md)
+* [🤖 Kevin Malone](product-guides/kevin-malone.md)
 
 ## Use Cases
 
