@@ -1,3 +1,9 @@
+---
+description: Easily track, record, and own your DAO Contributions.
+cover: .gitbook/assets/Mirror_Cover_Image.png
+coverY: 0
+---
+
 # 🌞 Welcome to Govrn
 
 ### 🌞 What is Govrn?&#x20;
