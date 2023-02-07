@@ -16,6 +16,7 @@
 * [🏋♀ Individual Contribution Activity](lets-party/individual-contribution-activity.md)
 * [📊 DAO Dashboard](lets-party/dao-dashboard.md)
 * [🎉 Create a DAO](lets-party/create-a-dao.md)
+* [👋 Profile](lets-party/profile.md)
 
 ## Use Cases
 
