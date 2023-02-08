@@ -1,5 +1,5 @@
 ---
-description: Give an Attestations
+description: Give Attestations
 ---
 
 # ⚡ Attestations
