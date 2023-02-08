@@ -29,6 +29,6 @@ We're giving you the superpower to create movements, not just stagnant communiti
 
 #### Click below if you're ready to start your journey.
 
-{% content-ref url="../lets-party/contributions/report-your-contributions.md" %}
-[report-your-contributions.md](../lets-party/contributions/report-your-contributions.md)
+{% content-ref url="../contributions/contributions/report-your-contributions.md" %}
+[report-your-contributions.md](../contributions/contributions/report-your-contributions.md)
 {% endcontent-ref %}

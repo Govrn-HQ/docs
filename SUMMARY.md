@@ -11,15 +11,27 @@
   * [👋 Profile](lets-party/get-started/profile.md)
   * [🎉 Create a DAO](lets-party/get-started/create-a-dao.md)
   * [⚙ DAO Settings](lets-party/get-started/dao-settings.md)
-* [🏅 Contributions](lets-party/contributions/README.md)
-  * [➕ Report Your Contributions](lets-party/contributions/report-your-contributions.md)
-  * [🔧 Manage Your Contributions](lets-party/contributions/manage-your-contributions.md)
-  * [🌿 Mint Your Contributions](lets-party/contributions/mint-your-contributions.md)
-* [⚡ Attestations](lets-party/attestations.md)
-* [📊 Dashboard](lets-party/dashboard/README.md)
-  * [🏋♀ Individual Contribution Activity](lets-party/dashboard/individual-contribution-activity.md)
-  * [🔦 DAO Dashboard](lets-party/dashboard/dao-dashboard.md)
-* [🤖 Kevin Malone](product-guides/kevin-malone.md)
+
+## Contributions
+
+* [🏅 Contributions](contributions/contributions/README.md)
+  * [➕ Report Your Contributions](contributions/contributions/report-your-contributions.md)
+  * [🔧 Manage Your Contributions](contributions/contributions/manage-your-contributions.md)
+  * [🌿 Mint Your Contributions](contributions/contributions/mint-your-contributions.md)
+
+## Attestations
+
+* [⚡ Attestations](attestations/attestations.md)
+
+## Dashboard
+
+* [📊 Dashboard](dashboard/dashboard/README.md)
+  * [🏋♀ Individual Contribution Activity](dashboard/dashboard/individual-contribution-activity.md)
+  * [🔦 DAO Dashboard](dashboard/dashboard/dao-dashboard.md)
+
+## Discord Bot
+
+* [🤖 Kevin Malone](discord-bot/kevin-malone.md)
 
 ## Use Cases
 

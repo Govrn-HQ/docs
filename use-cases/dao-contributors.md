@@ -33,6 +33,6 @@ If that sounds good to you, then let us repeat, Welcome to the Govrn Movement.
 
 #### Click below if you're ready to start your journey.
 
-{% content-ref url="../lets-party/contributions/report-your-contributions.md" %}
-[report-your-contributions.md](../lets-party/contributions/report-your-contributions.md)
+{% content-ref url="../contributions/contributions/report-your-contributions.md" %}
+[report-your-contributions.md](../contributions/contributions/report-your-contributions.md)
 {% endcontent-ref %}
