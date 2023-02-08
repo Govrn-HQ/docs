@@ -1,4 +1,8 @@
-# ⚡ Give an Attestation
+---
+description: Give an Attestations
+---
+
+# ⚡ Attestations
 
 If Contributions are the feature item of a dish, then Attestations are the spices!!
 
@@ -28,7 +32,7 @@ While we do provide a search bar to search find a specific contribution, what we
 
 ### 3.  Select the Contribution
 
-Once you find a contribution you want to validate, click the checkbox to the left of the contribution.  Did you find multiple? No worries! You're able to select as many as you want.
+Once you find a contribution you want to validate, click the checkbox to the left of the contribution.  Did you find multiple? No worries! You're able to bulk select.
 
 ### 4.  Click the "Attest" Button
 

@@ -10,7 +10,7 @@ description: >-
 
 To check on Metamask, hover over the Network to switch to Gnosis Chain.&#x20;
 
-![](<../.gitbook/assets/gnosis chain.png>)
+![](<../../.gitbook/assets/gnosis chain.png>)
 
 If you can't find it, you can easily set it up. Just follow this [tutorial](https://medium.com/stakingbits/setting-up-metamask-for-gnosis-chain-formerly-xdai-e0deb1541757) on how to set it up with Metamask.&#x20;
 

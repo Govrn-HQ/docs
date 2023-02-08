@@ -6,16 +6,19 @@
 
 ## Lets party
 
-* [🌱 Get Started](product-guides/get-started.md)
-* [⛓ Set up Gnosis Chain](lets-party/set-up-gnosis-chain.md)
-* [➕ Report Your Contributions](product-guides/report-your-contributions.md)
-* [🔧 Manage Your Contributions](product-guides/manage-your-contributions.md)
-* [🌿 Mint Your Contributions](product-guides/mint-your-contributions.md)
-* [⚡ Give an Attestation](product-guides/give-an-attestation.md)
-* [🏋♀ Individual Contribution Activity](lets-party/individual-contribution-activity.md)
-* [📊 DAO Dashboard](lets-party/dao-dashboard.md)
-* [👋 Profile](lets-party/profile.md)
-* [🎉 Create a DAO](lets-party/create-a-dao.md)
+* [🌱 Get Started](lets-party/get-started/README.md)
+  * [⛓ Set up Gnosis Chain](lets-party/get-started/set-up-gnosis-chain.md)
+  * [👋 Profile](lets-party/get-started/profile.md)
+  * [🎉 Create a DAO](lets-party/get-started/create-a-dao.md)
+  * [⚙ DAO Settings](lets-party/get-started/dao-settings.md)
+* [🏅 Contributions](lets-party/contributions/README.md)
+  * [➕ Report Your Contributions](lets-party/contributions/report-your-contributions.md)
+  * [🔧 Manage Your Contributions](lets-party/contributions/manage-your-contributions.md)
+  * [🌿 Mint Your Contributions](lets-party/contributions/mint-your-contributions.md)
+* [⚡ Attestations](lets-party/attestations.md)
+* [📊 Dashboard](lets-party/dashboard/README.md)
+  * [🏋♀ Individual Contribution Activity](lets-party/dashboard/individual-contribution-activity.md)
+  * [🔦 DAO Dashboard](lets-party/dashboard/dao-dashboard.md)
 * [🤖 Kevin Malone](product-guides/kevin-malone.md)
 
 ## Use Cases

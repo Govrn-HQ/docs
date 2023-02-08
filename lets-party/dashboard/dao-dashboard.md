@@ -2,9 +2,9 @@
 description: Heatmap and overall view of all the contributions happening in your DAO
 ---
 
-# 📊 DAO Dashboard
+# 🔦 DAO Dashboard
 
-<figure><img src="../.gitbook/assets/DAO Dashboard v2.png" alt=""><figcaption><p>Found under the <code>DAOs</code> tab of the left panel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DAO Dashboard v2.png" alt=""><figcaption><p>Found under the <code>DAOs</code> tab of the left panel</p></figcaption></figure>
 
 Under the left panel, you'll find the `DAOs` tab. Here, you'll see all your associated DAOs. Once you click one of the DAO(s) you're associated with, you'll be taken to this beautiful DAO Dashboard.&#x20;
 

@@ -2,7 +2,7 @@
 
 There are two tabs of the Contributions page:
 
-1. &#x20;`Contributions`
+1. `Contributions`
 2. `Contributions Types`
 
 ### Contributions
@@ -15,7 +15,7 @@ There are two statuses for a contribution: Staged and Minted.
 
 **Minted contributions** are just that, contributions you have minted on-chain.
 
-![](<../.gitbook/assets/Screen Shot 2022-07-25 at 3.42.36 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-07-25 at 3.42.36 PM.png>)
 
 Think of the staging area as a soft record of your contributions.  This means that if you realize you made an error or mistake, you can click on the pen icon to **edit** the contribution or the trash can to **delete** the contribution.
 
@@ -36,6 +36,6 @@ The `Contribution Types` tab shows you a rolled up view of all your contribution
 
 * Additionally, it shows the details of the last occurrence you made the contribution.
 
-![](<../.gitbook/assets/Screen Shot 2022-06-24 at 1.49.08 PM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-06-24 at 1.49.08 PM.png>)
 
 This view is great to understand **what contributions you make the most often**, and understand what you haven't done in a while.

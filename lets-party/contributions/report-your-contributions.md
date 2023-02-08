@@ -8,7 +8,7 @@ Reporting contributions is the key action you can take!  It's incredibly simple 
 
 Once you're logged into Govrn, you'll land on the "Home" Tab.  The first step is to Navigate to the "Report" Tab.
 
-![](<../.gitbook/assets/Navigate to the record tab cropped.gif>)
+![](<../../.gitbook/assets/Navigate to the record tab cropped.gif>)
 
 It's from this tab that you'll be able to report your contributions!
 

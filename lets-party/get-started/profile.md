@@ -4,7 +4,7 @@ description: See your DAOs and join new ones from the Profile tab
 
 # 👋 Profile
 
-<figure><img src="../.gitbook/assets/membership_fullscreen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/membership_fullscreen.png" alt=""><figcaption></figcaption></figure>
 
 From the `Profile` tab, you're able to do the following:
 
