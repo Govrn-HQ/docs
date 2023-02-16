@@ -42,7 +42,7 @@ We've broken Contributions down into a couple of components:
 {% tab title="Example 2" %}
 * **Name of Contribution:** Led a demo call with DelevDAO
 * **Activity Type:** Demo Call
-* **Details:** Led a demo call to the founder of DelevDAO with Stefen.&#x20;
+* **Details:**&#x20;
 * **Proof of Contribution:**&#x20;
 * **DAO:** Govrn
 * **Date of Contribution Engagement (UTC):** 02/15/2023
