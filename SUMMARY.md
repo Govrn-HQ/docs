@@ -40,7 +40,6 @@
 
 ## Integrations
 
-* [🐦 Twitter](integrations/twitter.md)
 * [🖇 Linear](integrations/linear.md)
 
 ## Get Involved

@@ -6,6 +6,50 @@ coverY: 0
 
 # 🌞 Welcome to Govrn
 
+<details>
+
+<summary>The <a href="https://govrn.app/">Govrn App</a> is now live! 🥳 Check out our most up-to-date features! 👇 </summary>
+
+****[**Profile** ](lets-party/get-started/)
+
+1. Create Profile&#x20;
+2. Join DAO(s)
+3. Create a DAO manually&#x20;
+4. Add members to the DAO&#x20;
+5. Set Admins of the DAO
+
+****[**Contributions**](broken-reference)****
+
+1. Record contributions&#x20;
+2. Mint contributions
+3. Attribute contributions to DAOs&#x20;
+
+****[**Attestations**](attestations/attestations.md)****
+
+1. Give attestations
+2. Receive attestations&#x20;
+
+****[**Dashboard**](broken-reference)****
+
+1. Personal contribution dashboard of all your DAOs
+2. DAO’s contribution dashboard&#x20;
+
+****[**Integrations**](broken-reference)****
+
+1. Connect Linear&#x20;
+2. Connect Discord&#x20;
+3. Guild coming soon 🤫
+
+****[**Discord Bot**](broken-reference)****
+
+1. Use our friendly Discord bot&#x20;
+
+</details>
+
+{% hint style="info" %}
+Video [tutorial](https://www.loom.com/share/da14b2cd6a0142aa8a93faad7cc280e5) on How to Set up Your DAO on Govrn
+{% endhint %}
+
 ### 🌞 What is Govrn?&#x20;
 
 Govrn is an open platform that empowers [DAO contributors](use-cases/dao-contributors.md) to track and record their own contributions, while additionally enabling [communities](use-cases/dao-leaders.md) to fairly value & reward those contributions.&#x20;
