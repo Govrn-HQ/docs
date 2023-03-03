@@ -22,7 +22,7 @@ Once you hit the mint button, you should receive a notification on your connecte
 
 ### 5.  Wait and Celebrate 🥂
 
-Once you send the transaction, we will monitor Gnosis Chain for you contribution to be minted.  Once confirmed, we will send you a success message that should pop up in the upper right of the screen!
+Once you send the transaction, we will monitor Gnosis Chain for your contribution to be minted.  Once confirmed, we will send you a success message that should pop up in the upper right of the screen!
 
 And boom!!!  Congratulations!!! You've officially minted your first contribution.
 
