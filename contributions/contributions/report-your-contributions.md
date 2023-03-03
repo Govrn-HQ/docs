@@ -27,7 +27,7 @@ We've broken Contributions down into a couple of components:
 * **DAO:**  Select the DAO that you want to apply this contribution to.  Did you do the work outside of any DAO?  No problem!!  Just leave blank and add the DAO at a later time!
 * **Date of Contribution Engagement (UTC):**  Select the date that your contribution took place on.  This helps you keep track of when the work was actually done and see contribution patterns over time.
 
-### Sample Contrbutions
+### Sample Contributions
 
 {% tabs %}
 {% tab title="Example 1" %}
