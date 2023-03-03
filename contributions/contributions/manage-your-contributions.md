@@ -1,13 +1,13 @@
 # 🔧 Manage Your Contributions
 
-There are two tabs of the Contributions page:
+There are two tabs on the Contributions page:
 
 1. `Contributions`
 2. `Contributions Types`
 
 ### Contributions
 
-The `Contributions Tab` shows you a list all the contributions you have uploaded to the system and their relevant details.  A key detail it shows is the status.
+The `Contributions Tab` shows you a list of all the contributions you have uploaded to the system and their relevant details.  A key detail it shows is the status.
 
 There are two statuses for a contribution: Staged and Minted.
 
