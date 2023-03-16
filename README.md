@@ -47,7 +47,7 @@ coverY: 0
 </details>
 
 {% hint style="info" %}
-Video [tutorial](https://www.loom.com/share/da14b2cd6a0142aa8a93faad7cc280e5) on How to Set up Your DAO on Govrn
+Video [tutorial](https://www.loom.com/share/e480098e4006456aa7ca7814a80c65ac) on How to Set up Your DAO on Govrn
 {% endhint %}
 
 ### 🌞 What is Govrn?&#x20;
