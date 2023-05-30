@@ -4,30 +4,24 @@
 
 * [🌞 Welcome to Govrn](README.md)
 
-## Lets party
+## start-here
 
-* [🌱 Get Started](lets-party/get-started/README.md)
-  * [⛓ Set up Gnosis Chain](lets-party/get-started/set-up-gnosis-chain.md)
-  * [👋 Profile](lets-party/get-started/profile.md)
-  * [🎉 Create a DAO](lets-party/get-started/create-a-dao.md)
-  * [⚙ DAO Settings](lets-party/get-started/dao-settings.md)
+* [🌱 Get Started](start-here/get-started/README.md)
+  * [⛓ Set up Gnosis Chain](start-here/get-started/set-up-gnosis-chain.md)
+  * [👋 Profile](start-here/get-started/profile.md)
+  * [🎉 Create a DAO](start-here/get-started/create-a-dao.md)
+  * [⚙ DAO Settings](start-here/get-started/dao-settings.md)
 
-## Contributions
+## lets-party
 
-* [🏅 Contributions](contributions/contributions/README.md)
-  * [➕ Report Your Contributions](contributions/contributions/report-your-contributions.md)
-  * [🔧 Manage Your Contributions](contributions/contributions/manage-your-contributions.md)
-  * [🌿 Mint Your Contributions](contributions/contributions/mint-your-contributions.md)
-
-## Attestations
-
-* [⚡ Attestations](attestations/attestations.md)
-
-## Dashboard
-
-* [📊 Dashboard](dashboard/dashboard/README.md)
-  * [🏋♀ Individual Contribution Activity](dashboard/dashboard/individual-contribution-activity.md)
-  * [🔦 DAO Dashboard](dashboard/dashboard/dao-dashboard.md)
+* [🏅 Contributions](lets-party/contributions/README.md)
+  * [➕ Report Your Contributions](lets-party/contributions/report-your-contributions.md)
+  * [🔧 Manage Your Contributions](lets-party/contributions/manage-your-contributions.md)
+  * [🌿 Mint Your Contributions](lets-party/contributions/mint-your-contributions.md)
+* [⚡ Attestations](lets-party/attestations.md)
+* [📊 Dashboard](lets-party/dashboard/README.md)
+  * [🏋♀ Individual Contribution Activity](lets-party/dashboard/individual-contribution-activity.md)
+  * [🔦 DAO Dashboard](lets-party/dashboard/dao-dashboard.md)
 
 ## Discord Bot
 

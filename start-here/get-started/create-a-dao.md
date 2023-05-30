@@ -26,4 +26,3 @@ Once complete, hit `Import`. Then you're all set & ready to party!
 
 **To set DAO Admins, check out the  following page on **_**DAO Settings.**_
 
-****

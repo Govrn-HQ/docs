@@ -10,7 +10,7 @@ coverY: 0
 
 <summary>The <a href="https://govrn.app/">Govrn App</a> is now live! 🥳 Check out our most up-to-date features! 👇 </summary>
 
-****[**Profile** ](lets-party/get-started/)
+[**Profile** ](start-here/get-started/)
 
 1. Create Profile&#x20;
 2. Join DAO(s)
@@ -18,29 +18,29 @@ coverY: 0
 4. Add members to the DAO&#x20;
 5. Set Admins of the DAO
 
-****[**Contributions**](broken-reference)****
+[**Contributions**](broken-reference)
 
 1. Record contributions&#x20;
 2. Mint contributions
 3. Attribute contributions to DAOs&#x20;
 
-****[**Attestations**](attestations/attestations.md)****
+[**Attestations**](lets-party/attestations.md)
 
 1. Give attestations
 2. Receive attestations&#x20;
 
-****[**Dashboard**](broken-reference)****
+[**Dashboard**](broken-reference)
 
 1. Personal contribution dashboard of all your DAOs
 2. DAO’s contribution dashboard&#x20;
 
-****[**Integrations**](broken-reference)****
+[**Integrations**](broken-reference)
 
 1. Connect Linear&#x20;
 2. Connect Discord&#x20;
 3. Guild coming soon 🤫
 
-****[**Discord Bot**](broken-reference)****
+[**Discord Bot**](broken-reference)
 
 1. Use our friendly Discord bot&#x20;
 

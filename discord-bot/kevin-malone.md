@@ -43,7 +43,7 @@ To associate yourself with your DAO, you'll need to interact with Kevin. Be sure
 
 ### 💬 Commands
 
-Run the below commands in a DM with Kevin Malone or in your DAO's discord server. <mark style="color:purple;">****</mark>&#x20;
+Run the below commands in a DM with Kevin Malone or in your DAO's discord server.&#x20;
 
 {% hint style="success" %}
 <mark style="color:purple;">**/join**</mark>
